@@ -1,0 +1,1 @@
+ffmpeg -i %1 -c:v libvpx -crf 4 -b:v 1500K -vf scale=640:-1 -codec:a libvorbis %2

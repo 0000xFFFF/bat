@@ -1,0 +1,1 @@
+@dir /s /b /a-d | findstr /I /C:"%1"

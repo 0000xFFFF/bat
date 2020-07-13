@@ -1,0 +1,1 @@
+@tasklist | findstr /I /C:"%1"

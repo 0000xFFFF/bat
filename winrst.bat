@@ -1,0 +1,1 @@
+@kill explorer.exe && start explorer.exe

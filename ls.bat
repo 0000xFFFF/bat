@@ -1,0 +1,1 @@
+@dir "%1" /A-D /B 2>nul || echo ^> Nothing found here.
