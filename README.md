@@ -1,2 +1,2 @@
 # bat
-useful batch files (windoiws 7/.../10)
+useful batch files/tools (win 7/.../10)
